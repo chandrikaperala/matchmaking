@@ -1,0 +1,16 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaicBSBpCVAUbBPaow2Tixx4i8A9YuEZQ2Yg&s");
+  height: 100vh;
+  background-size: cover;
+}
+
+/* Additional styles for App component if needed */
