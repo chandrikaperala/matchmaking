@@ -1,0 +1,11 @@
+/* src/components/Tile/index.css */
+
+.tile {
+  transition:
+    transform 0.5s,
+    background-color 0.5s;
+}
+
+.tile.flipped {
+  transform: rotateY(180deg);
+}

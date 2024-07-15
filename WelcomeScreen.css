@@ -1,0 +1,23 @@
+/* src/components/WelcomeScreen/index.css */
+
+/* Add styles as per your design */
+.welcome-screen {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.welcome-form {
+  margin-top: 20px;
+}
+
+.welcome-input {
+  margin-right: 10px;
+  padding: 10px;
+  font-size: 1em;
+}
+
+.welcome-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
